@@ -23,7 +23,7 @@
 <hr>
 
 
-<p>https://moviedekhoo.netlify.app/ </p>
+
 <br>
 
 <h2>Screenshots of the Project:</h2>
