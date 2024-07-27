@@ -26,20 +26,6 @@
 
 <br>
 
-<h2>Screenshots of the Project:</h2>
-
-<img src="./Assets/media/A.png" />
-<br>
-<br>
-
-<img src="./Assets/media/B.png" />
-<br>
-<br>
-
-<img src="./Assets/media/C.png" />
-<br>
-<br>
-
 
 
 
