@@ -40,7 +40,6 @@
 <br>
 <br>
 
-<h2>Demo of the Project:</h2>
-<br>
 
-<img src="./Assets/media/demo.gif" type="video/mp4" />
+
+
